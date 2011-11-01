@@ -1,0 +1,100 @@
+body {
+  background-color:#2A343D;
+  color:#E7E9DC;
+  font-family:"Times New Roman",Times,serif;
+  background-image:url('images/storm.jpg');
+}
+
+#title {
+  text-align:center;
+  padding:10px;
+  -moz-border-radius:15px;
+  webkit-border-radius:15px;
+  -khtml-border-radius:15px;
+  border-radius:15px;
+  margin:0 50px 0 50px;
+}
+
+#show_submit {
+  margin-left:250px;
+}
+
+#show_submit:hover {
+  color:#020100;
+}
+
+h1 {
+ margin-bottom:0px;
+}
+
+h5 {
+  margin-top:0;
+}
+
+form {
+  margin:30px 250px 0 250px;
+}
+
+
+form textarea {
+  background-color:#ADAFAA;
+  color:#020100;
+  border:2px solid;
+}
+
+form p {
+  margin-top:0;
+  margin-left:50px;
+}
+
+#input_button{
+  margin-left:15px;
+  color:#E7E9DC;
+  background-color:#2A343D;
+  border-color:#020100;
+  border:1px solid; 
+}
+
+.result {
+  margin:40px 150px 10px 150px; 
+  background-color:#E7E9DC;
+  color:#020100;
+  -moz-border-radius:5px;
+  webkit-border-radius:5px;
+  -khtml-border-radius:5px;
+  border-radius:5px;
+  font-size:15px;
+  filter:alpha(opacity=50);
+  opacity:.5;
+}
+
+.story {
+  padding:2px 5px 2px 5px;
+}
+
+.date {
+  text-align:right;
+  margin-right:30px;
+  font-size:12px;
+}
+
+#footer {
+  text-align:center;
+  font-size:12px;
+}
+
+a {
+  color:#E7E9DC;
+}
+
+#pagination {
+  text-align:center;
+  font-size:12px;
+}
+
+#share {
+  text-align:center;
+}
+
+
+
